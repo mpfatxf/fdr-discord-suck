@@ -1,5 +1,3 @@
-*.rb linguist-language=Lua
-
 iGN = input.getNumber
 iGB = input.getBool
 tI = table.insert
